@@ -47,4 +47,5 @@ Descrição breve do projeto. O que ele faz? Quais tecnologias foram usadas?
 ## Visitas ao Perfil
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=seu-usuario.seu-usuario)
+![snake gif](https://github.com/mauzix/mauzix/blob/output/github-contribution-grid-snake.svg)
 
