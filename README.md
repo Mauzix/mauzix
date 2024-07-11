@@ -29,7 +29,7 @@ Sou um desenvolvedor front-end apaixonado por criar interfaces incríveis e expe
 
 ## Conecte-se Comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/maurício-gonçalves-da-silva-98aab51a4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maur%C3%ADcio-gon%C3%A7alves-da-silva-programador/)
 
 ## Visitas ao Perfil
 
