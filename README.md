@@ -54,12 +54,6 @@
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=seu-usuario&theme=radical" alt="Gráfico de Contribuições"/>
 </p>
 
-<h2 align="center">Cobrinha de Commits</h2>
-
-<p align="center">
-  <img src="https://github.com/seu-usuario/seu-usuario/blob/output/github-contribution-grid-snake.svg" alt="snake gif"/>
-</p>
-
 <h2 align="center">Conecte-se Comigo</h2>
 
 <p align="center">
