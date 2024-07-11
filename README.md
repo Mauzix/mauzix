@@ -1,14 +1,15 @@
-# Olá, eu sou mauzix 👋
+# Olá, eu sou mauzix. 👋
 
 ## Sobre Mim
 
 Sou um desenvolvedor front-end apaixonado por criar interfaces incríveis e experiências de usuário fluidas. Atualmente, estou focado em aprimorar minhas habilidades em tecnologias modernas de front-end e contribuir para projetos open-source.
 
-- 🔭 Atualmente estou estudando programação
+- 🔭 Atualmente estou estudando programação web
 - 🌱 Estou aprendendo: React, TypeScript, Node.js
 - 💬 Pergunte-me sobre: HTML, CSS, JavaScript, React
 - 📫 Como me encontrar: [Seu e-mail, LinkedIn, etc.]
-- ⚡ Meta: Sempre me desenvolver
+- ⚡ Mwta: Desenvolver-me cada vez mais em programação
+
 ## Tecnologias e Ferramentas
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -21,12 +22,17 @@ Sou um desenvolvedor front-end apaixonado por criar interfaces incríveis e expe
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
+
 ## Estatísticas do GitHub
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
 ![Commits per Day](https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=radical)
 ![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=seu-usuario&theme=radical)
+
+## Cobrinha de Commits
+
+![snake gif](https://github.com/seu-usuario/seu-usuario/blob/output/github-contribution-grid-snake.svg)
 
 ## Conecte-se Comigo
 
@@ -37,7 +43,3 @@ Sou um desenvolvedor front-end apaixonado por criar interfaces incríveis e expe
 ## Visitas ao Perfil
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=seu-usuario.seu-usuario)
-
-## Cobrinha de Commits
-
-![snake gif](https://github.com/seu-usuario/seu-usuario/blob/output/github-contribution-grid-snake.svg)
