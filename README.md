@@ -1,14 +1,14 @@
-# Olá, eu sou [Seu Nome] 👋
+# Olá, eu sou [mauzix] 👋
 
 ## Sobre Mim
 
 Sou um desenvolvedor front-end apaixonado por criar interfaces incríveis e experiências de usuário fluidas. Atualmente, estou focado em aprimorar minhas habilidades em tecnologias modernas de front-end e contribuir para projetos open-source.
 
-- 🔭 Atualmente estou estudando programação
+- 🔭 Atualmente Estou estudando programação
 - 🌱 Estou aprendendo: React, TypeScript, Node.js
 - 💬 Pergunte-me sobre: HTML, CSS, JavaScript, React
-- 📫 Como me encontrar: [Seu e-mail, LinkedIn, etc.]
-- ⚡ Curiosidade: Adoro resolver quebra-cabeças e jogar xadrez nas horas vagas.
+- 📫 Como me encontrar: https://www.linkedin.com/in/maur%C3%ADcio-gon%C3%A7alves-da-silva-programador/
+- ⚡ Meta: Sempre procurar me desenvolver
 
 ## Tecnologias e Ferramentas
 
