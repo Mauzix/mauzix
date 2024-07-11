@@ -1,4 +1,4 @@
-# Olá, eu sou [mauzix] 👋
+# Olá, eu sou mauzix 👋
 
 ## Sobre Mim
 
