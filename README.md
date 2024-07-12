@@ -8,7 +8,7 @@ Sou um desenvolvedor front-end apaixonado por criar interfaces incríveis e expe
 - 🌱 Estou aprendendo: React, TypeScript, Node.js
 - 💬 Pergunte-me sobre: HTML, CSS, JavaScript, React
 - 📫 Como me encontrar: https://www.linkedin.com/in/maur%C3%ADcio-gon%C3%A7alves-da-silva-programador/
-- ⚡ Meta: Sempre procurar me desenvolver
+- ⚡ Meta: Sempre procurando me desenvolver profissionalmente 
 ## Tecnologias e Ferramentas
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
