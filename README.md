@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Sou um desenvolvedor Full Stack apaixonado por criar interfaces incríveis e experiências de usuário fluidas. Atualmente, estou focado em aprimorar minhas habilidades em tecnologias modernas de Full Stack e contribuir para projetos open-source.
+Sou estudante de tecnologia estou me preparando para atuar na area de Desenvolvedor de Paginas Web.
 
 - 🔭 Atualmente Estou estudando programação
 - 🌱 Estou aprendendo: React, TypeScript, Node.js
@@ -28,6 +28,8 @@ Sou um desenvolvedor Full Stack apaixonado por criar interfaces incríveis e exp
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maur%C3%ADcio-gon%C3%A7alves-da-silva-programador/)
 
+
+
 ## Visitas ao Perfil
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=seu-usuario.Mauzix)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=seu-usuario.seu-usuario)
