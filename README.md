@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Sou um desenvolvedor front-end apaixonado por criar interfaces incríveis e experiências de usuário fluidas. Atualmente, estou focado em aprimorar minhas habilidades em tecnologias modernas de front-end e contribuir para projetos open-source.
+Sou um desenvolvedor Full Stack apaixonado por criar interfaces incríveis e experiências de usuário fluidas. Atualmente, estou focado em aprimorar minhas habilidades em tecnologias modernas de Full Stack e contribuir para projetos open-source.
 
 - 🔭 Atualmente Estou estudando programação
 - 🌱 Estou aprendendo: React, TypeScript, Node.js
@@ -25,6 +25,7 @@ Sou um desenvolvedor front-end apaixonado por criar interfaces incríveis e expe
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![snake gif](https://github.com/Mauzix/mauzix/blob/output/github-contribution-grid-snake.svg)
 
 ## Conecte-se Comigo
 
