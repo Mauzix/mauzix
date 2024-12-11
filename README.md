@@ -30,4 +30,4 @@ Sou um desenvolvedor Full Stack apaixonado por criar interfaces incríveis e exp
 
 ## Visitas ao Perfil
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=seu-usuario.seu-usuario)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=seu-usuario.Mauzix)
