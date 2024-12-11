@@ -22,6 +22,7 @@ Sou um desenvolvedor Full Stack apaixonado por criar interfaces incríveis e exp
 
 
 ## Estatísticas do GitHub
+[![card](https://github-readme-stats.vercel.app/api?username=Mauzix&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Conecte-se Comigo
 
