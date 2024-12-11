@@ -1,38 +1,237 @@
-# Olá, eu sou mauzix 👋
-
-## Sobre Mim
-
-Sou um desenvolvedor Full Stack apaixonado por criar interfaces incríveis e experiências de usuário fluidas. Atualmente, estou focado em aprimorar minhas habilidades em tecnologias modernas de Full Stack e contribuir para projetos open-source.
-
-- 🔭 Atualmente Estou estudando programação
-- 🌱 Estou aprendendo: React, TypeScript, Node.js
-- 💬 Pergunte-me sobre: HTML, CSS, JavaScript, React
-- 📫 Como me encontrar: https://www.linkedin.com/in/maur%C3%ADcio-gon%C3%A7alves-da-silva-programador/
-- ⚡ Meta: Sempre procurando me desenvolver profissionalmente 
-## Tecnologias e Ferramentas
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+Alterar jnome do arquivo
+alterando o username
 
 
-## Estatísticas do GitHub
+# Nome da Actions:  
+name: Snake Game
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
-![snake gif](https://github.com/Mauzix/mauzix/blob/output/github-contribution-grid-snake.svg)
+# Controlador do tempo que sera feito a atualização dos arquivos.
+on:
+  schedule:
+      # Será atualizado a cada 5 horas.
+    - cron: "0 */5 * * *"
 
-## Conecte-se Comigo
+# Permite executar na na lista de Actions (utilizado para testes de build).
+  workflow_dispatch:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maur%C3%ADcio-gon%C3%A7alves-da-silva-programador/)
+# Regras
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
 
-## Visitas ao Perfil
+    # Checks repo under $GITHUB_WORKSHOP, so your job can access it
+      - uses: actions/checkout@v2
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=seu-usuario.seu-usuario)
+    # Repositorio que será utilizado para gerar os arquivos.
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: nomeUsuario #Seu usuario
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - run: git status
+
+      # Para as atualizações.
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master
+          force: true
+
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          # the output branch we mentioned above
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 
+Retornando na opção Actions do repositório, clique em “Run workflow”:
+
+Repositorio
+
+Pasta dos arquivos:
+Em seu repositorio cliente em main e selecione a branch output:
+output
+
+E aqui estão os arquivos gerados que você pode utilizar como bem entender:
+
+Arquivos
+
+Codigo Github para utilização:
+
+![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+
+👋 One new thing before you go
+
+Tired of getting nickel-and-dimed on your side projects? 😒
+We have created a membership program that helps cap your costs so you can build and experiment for less. And we currently have early-bird pricing which makes it an even better value! 🐥
+
+The DEV Team 
+Introducing DEV++
+Ben Halpern for The DEV Team ・ Aug 29
+#meta #news #productivity #career
+Just one of many great perks of being part of the network ❤️
+
+Top comments (0)
+Subscribe
+pic
+Add to the discussion
+Code of Conduct • Report abuse
+profile
+AWS
+Promoted
+
+AWS Security LIVE! Stream
+
+Level up your security knowledge and skills
+Join AWS Security LIVE! for expert insights on threat detection, infrastructure protection, and more. Hosted by AWS experts and AWS Partners. No sales pitches, just deep dives!
+
+Learn More
+
+Read next
+kannav02 profile image
+Testing with Jest
+Kannav Sethi - Nov 11
+
+komsenapati profile image
+Deploy a bento to GitHub Pages
+K Om Senapati - Nov 9
+
+gaundergod profile image
+Lucia Auth is getting deprected
+Gleb Kotovsky - Oct 21
+
+waradu profile image
+How to commit
+Waradu - Nov 9
+
+
+Henrique Lopes
+Follow
+"Não há razão alguma em usar a palavra “impossível” para descrever algo que claramente pode acontecer."
+Joined
+5 de set. de 2021
+Trending on DEV Community 
+Mercy profile image
+What is your favorite IDE?
+#discuss #webdev #vscode
+Ben Halpern profile image
+Meme Monday
+#discuss #jokes #watercooler
+Ravin Rau profile image
+8 Type of Load Balancing
+#discuss #webdev #cloudcomputing #programming
+profile
+AWS
+Promoted
+
+AWS Security LIVE! Stream
+
+Practical guidance for security practitioners
+Don't miss AWS Security LIVE! Whether you're an AWS newbie or a seasoned pro, this show has something for everyone with actionable tips, expert advice, and security knowledge.
+
+Learn More
+
+
+
+# Nome da Actions:  
+name: Snake Game
+
+# Controlador do tempo que sera feito a atualização dos arquivos.
+on:
+  schedule:
+      # Será atualizado a cada 5 horas.
+    - cron: "0 */5 * * *"
+
+# Permite executar na na lista de Actions (utilizado para testes de build).
+  workflow_dispatch:
+
+# Regras
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+
+    # Checks repo under $GITHUB_WORKSHOP, so your job can access it
+      - uses: actions/checkout@v2
+
+    # Repositorio que será utilizado para gerar os arquivos.
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: nomeUsuario #Seu usuario
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - run: git status
+
+      # Para as atualizações.
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master
+          force: true
+
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          # the output branch we mentioned above
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
+
+
+# Nome da Actions:  
+name: Snake Game
+
+# Controlador do tempo que sera feito a atualização dos arquivos.
+on:
+  schedule:
+      # Será atualizado a cada 5 horas.
+    - cron: "0 */5 * * *"
+
+# Permite executar na na lista de Actions (utilizado para testes de build).
+  workflow_dispatch:
+
+# Regras
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+
+    # Checks repo under $GITHUB_WORKSHOP, so your job can access it
+      - uses: actions/checkout@v2
+
+    # Repositorio que será utilizado para gerar os arquivos.
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: nomeUsuario #Seu usuario
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - run: git status
+
+      # Para as atualizações.
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master
+          force: true
+
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          # the output branch we mentioned above
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
