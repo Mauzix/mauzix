@@ -1,67 +1,70 @@
-ARQUITETO FRONT-END DO FUTURO
-✨ Construindo interfaces para a próxima dimensão digital
-⚡ Especialista em experiências web imersivas
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=A020F0&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+sou+Mauricio+Silva" alt="Typing SVG" />
+</h1>
 
-https://img.shields.io/badge/STATUS-ONLINE-00FF9D?style=for-the-badge&logo=starship&logoColor=white
-https://img.shields.io/badge/CONECTE%2520NO-MATRIX-00FF9D?style=for-the-badge&logo=matrix&logoColor=black
+<p align="center">
+  <img src="https://img.shields.io/badge/Front--End-Developer-A020F0?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Estudando-FullStack-8A2BE2?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hacking-%C3%89tico-black?style=for-the-badge&logo=linux&logoColor=green" />
+</p>
 
-</div>
-🛠️ Tecnologias Futuristas
-javascript
-const tecnologiasMauzix = {
-  linguagens: ["TypeScript", "JavaScript", "HTML5", "CSS3"],
-  frameworks: ["React", "Next.js", "Remix", "SvelteKit"],
-  estilização: ["TailwindCSS", "CSS Modules", "Styled Components", "Figma"],
-  animação: ["GSAP", "Framer Motion", "Three.js", "Rive"],
-  estado: ["Zustand", "Jotai", "Redux Toolkit", "XState"],
-  testes: ["Cypress", "Jest", "Testing Library", "Storybook"],
-  ferramentas: ["Vite", "TurboRepo", "ESBuild", "Bun"],
-  aprendendo: ["WebGL", "WebAssembly", "Rust", "React Native"]
-};
-🚀 Projetos Destacados
-<div align="center">
-Projeto	Descrição	Tecnologias	Demo
-Neon UI	Biblioteca de componentes futurista	React, TS, Tailwind	Live
-CyberPortfolio	Portfólio 3D interativo	Three.js, R3F	Live
-HoloForms	Construtor de formulários next-gen	Svelte, XState	Live
-Matrix Chat	Interface de chat animada	GSAP, WebSockets	Live
-</div>
-📊 Estatísticas GitHub
-<div align="center">
-https://github-readme-stats-neon.vercel.app/api?username=mauzix&show_icons=true&theme=aura&bg_color=0D1117&title_color=00FF9D&icon_color=00FF9D&text_color=FFFFFF&border_color=1A1F2C&include_all_commits=true
+---
 
-https://github-readme-stats-neon.vercel.app/api/top-langs/?username=mauzix&layout=compact&theme=aura&bg_color=0D1117&title_color=00FF9D&text_color=FFFFFF&border_color=1A1F2C
+### ✨ Sobre mim
 
-https://streak-stats-future.vercel.app?user=mauzix&theme=holo&border=1A1F2C&background=0D1117&ring=00FF9D&fire=00FF9D&currStreakNum=FFFFFF&sideNums=00FF9D&currStreakLabel=FFFFFF&sideLabels=00FF9D&dates=7D7D7D
+- 🤝 Me chamo Mauricio Silva
+- 🚀 Focado em desenvolvimento front-end
+- 🔧 Estudando full-stack e segurança da informação
+- ☕ Viciado em aprender tecnologias novas e construir interfaces que funcionam de verdade
 
-</div>
-🌐 Presença Digital
-diff
-!〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️!
-🖥️ Site Pessoal
+---
 
-🐦 Twitter/X
+### ⚙️ Tecnologias que uso
 
-💼 LinkedIn
+<p>
+  <img src="https://img.shields.io/badge/HTML5-A020F0?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-A020F0?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/JavaScript-A020F0?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
-🎨 CodePen
+---
 
-🎧 Trilhas Sonoras UI
+### 📊 Estatísticas do GitHub
 
-🔮 Trabalhando Atualmente Em
-diff
-+[▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰]+
-Desenvolvendo um motor de animação WebGL
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mauzix&show_icons=true&theme=radical&title_color=A020F0&icon_color=A020F0&text_color=ffffff&bg_color=000000" alt="GitHub Stats"/>
+</p>
 
-Criando componentes UI com IA
+---
 
-Projetando interfaces controladas por voz
+### 💻 Linguagens mais usadas
 
-Experimentando com CSS holográfico
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauzix&layout=compact&theme=radical&title_color=A020F0&text_color=ffffff&bg_color=000000" alt="Top Langs"/>
+</p>
 
-<div align="center">
-https://komarev.com/ghpvc/?username=mauzix&label=VISITAS+DIGITAIS&color=00FF9D&style=flat-square
+---
 
-diff
-# 𝔼𝕤𝕥𝕖 𝕡𝕖��𝕗𝕚𝕝 𝕗𝕠𝕚 𝕔𝕣𝕚𝕒𝕕𝕠 𝕔�𝕞 𝕥𝕖𝕔𝕟𝕠𝕝𝕠𝕘𝕚𝕒 𝕕𝕠 𝕗𝕦𝕥𝕦𝕣𝕠
-</div> ```
+### 🐍 Cobrinha animada
+
+<p align="center">
+  <img src="https://github.com/mauzix/mauzix/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+### 🌐 Contato
+
+<p>
+  📫 Email: contato@mauricio.dev.br<br>
+  👨‍💼 LinkedIn: <a href="https://linkedin.com/in/Mauzix">Mauricio Silva</a><br>
+  📍 Localização: Brasil
+</p>
+
+---
+
+<p align="center">
+  🌟 Obrigado por visitar meu perfil! 🌟
+</p>
