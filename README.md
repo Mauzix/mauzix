@@ -59,7 +59,7 @@
 
 <p>
   📫 Email: mauricio.021wgg@gmail.com<br>
-  👨‍💼 LinkedIn: <a href="https://linkedin.com/in/Mauzix">Mauricio Silva</a><br>
+  👨‍💼 LinkedIn: <a href="https://www.linkedin.com/in/maurício-gonçalves-da-silva-programador/">Mauricio Silva</a><br>
   📍 Localização: Brasil
 </p>
 
