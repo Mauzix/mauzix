@@ -1,65 +1,53 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&pause=1000&color=A020F0&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+sou+Mauricio+Silva" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=A020F0&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+sou+Mauricio+Silva" alt="Typing SVG" />
 </h1>
 
----
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Desenvolvedor-Futurista-00F0FF?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/Estudando-FullStack-purple?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Explorando-HackingEthical-black?style=for-the-badge&logo=kali-linux&logoColor=red" />
+  <img src="https://img.shields.io/badge/Front--End-Developer-A020F0?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Estudando-FullStack-8A2BE2?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hacking-%C3%89tico-black?style=for-the-badge&logo=linux&logoColor=green" />
 </p>
 
 ---
 
-### 🧬 Sobre mim
+### ✨ Sobre mim
 
-- 🧠 Programador em constante evolução
-- 🛠️ Desenvolvedor front-end, aprendendo full-stack
-- 🛰️ Interessa por inteligência artificial e segurança digital
-- 💾 Amante do minimalismo funcional e design moderno
-- ⚡ Viciado em aprender rápido e criar interfaces impactantes
+- 🤝 Me chamo Mauricio Silva
+- 🚀 Focado em desenvolvimento front-end
+- 🔧 Estudando full-stack e segurança da informação
+- ☕ Viciado em aprender tecnologias novas e construir interfaces que funcionam de verdade
 
 ---
 
-### 🚀 Tecnologias Futuristas que uso
+### ⚙️ Tecnologias que uso
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-0FF1CE?style=for-the-badge&logo=html5&logoColor=black" />
-  <img src="https://img.shields.io/badge/CSS3-0FF1CE?style=for-the-badge&logo=css3&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-0FF1CE?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TailwindCSS-00F0FF?style=for-the-badge&logo=tailwindcss" />
-  <img src="https://img.shields.io/badge/Git-00F0FF?style=for-the-badge&logo=git&logoColor=black" />
+<p>
+  <img src="https://img.shields.io/badge/HTML5-A020F0?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-A020F0?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/JavaScript-A020F0?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
-### 📊 Estatísticas Intergalácticas
+### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mauzix&show_icons=true&theme=tokyonight&title_color=00F0FF&icon_color=00F0FF&text_color=ffffff&bg_color=0d1117" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauzix&layout=compact&theme=tokyonight&title_color=00F0FF&text_color=ffffff&bg_color=0d1117" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mauzix&show_icons=true&theme=radical&title_color=A020F0&icon_color=A020F0&text_color=ffffff&bg_color=000000" alt="GitHub Stats"/>
 </p>
 
 ---
 
-### 🧠 Trophy Room
+### 💻 Linguagens mais usadas
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mauzix&theme=darkhub&title=Commit,Stars,Followers,Repositories&margin-w=10&no-frame=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauzix&layout=compact&theme=radical&title_color=A020F0&text_color=ffffff&bg_color=000000" alt="Top Langs"/>
 </p>
 
 ---
 
-### 📡 Mapa de Atividade Neural
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mauzix&theme=react-dark&area=true&hide_border=true&color=00F0FF&line=00F0FF&point=FFFFFF" />
-</p>
-
----
-
-### 🐍 Snake Engine
+### 🐍 Cobrinha animada
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Mauzix/Mauzix/output/github-contribution-grid-snake.svg" alt="Snake animation" />
@@ -67,24 +55,16 @@
 
 ---
 
-### 🧿 Interface Visual
+### 🌐 Contato
 
-<p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="150" />
-  <img src="https://media.giphy.com/media/3ohzdYJK1wAdPWVk88/giphy.gif" width="150" />
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="150" />
+<p>
+  📫 Email: mauricio.021wgg@gmail.com<br>
+  👨‍💼 LinkedIn: <a href="https://linkedin.com/in/Mauzix">Mauricio Silva</a><br>
+  📍 Localização: Brasil
 </p>
 
 ---
 
-### 🌌 Contato Interdimensional
-
-📧 Email: contato@mauricio.dev.br  
-👾 GitHub: [Mauzix](https://github.com/Mauzix)  
-📍 Base atual: Brasil
-
----
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=Que+a+luz+do+código+te+guie..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=Que+a+luz+do+c%C3%B3digo+te+guie%2E%2E%2E" />
 </p>
