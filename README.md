@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Front--End-Developer-A020F0?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Estudando-FullStack-8A2BE2?style=for-the-badge&logo=code&logoColor=white" />
   <img src="https://img.shields.io/badge/Hacking-%C3%89tico-black?style=for-the-badge&logo=linux&logoColor=green" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-A020F0?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
@@ -26,8 +26,8 @@
   <img src="https://img.shields.io/badge/HTML5-A020F0?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-A020F0?style=for-the-badge&logo=css3" />
   <img src="https://img.shields.io/badge/JavaScript-A020F0?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-A020F0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-A020F0?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
