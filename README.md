@@ -49,7 +49,7 @@
 
 ---
 
-### 🐍 Cobrinha animada
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Mauzix/Mauzix/output/github-contribution-grid-snake.svg" alt="Snake animation" />
