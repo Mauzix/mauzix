@@ -1,4 +1,4 @@
-<!-- <h1 align="center">
+ <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+sou+Mauricio+Silva" alt="Typing SVG" />
 </h1>
 
@@ -69,4 +69,4 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=Que+a+luz+do+c%C3%B3digo+te+guie%2E%2E%2E" />
-</p> -->
+</p> 
